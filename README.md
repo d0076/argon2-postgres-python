@@ -7,7 +7,7 @@ Simple implementation for safely storing passwords in a PostgreSQL database
 Download or clone this repository
 
 ```cmd
-git clone https://github.com/dathrivenkatreddy/argon2-postgres-python.git
+git clone https://github.com/d0076/argon2-postgres-python.git
 ```
 
 Install the required dependencies
